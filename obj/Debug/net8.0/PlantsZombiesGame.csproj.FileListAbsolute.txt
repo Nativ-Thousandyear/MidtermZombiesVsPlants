@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\bin\Debug\net8.0\PlantsZombiesGame.exe
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\bin\Debug\net8.0\PlantsZombiesGame.deps.json
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\bin\Debug\net8.0\PlantsZombiesGame.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\bin\Debug\net8.0\PlantsZombiesGame.dll
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\bin\Debug\net8.0\PlantsZombiesGame.pdb
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.dll
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\refint\PlantsZombiesGame.dll
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.pdb
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\PlantsZombiesGame.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\PlantsZombiesGame\PlantsZombiesGame\obj\Debug\net8.0\ref\PlantsZombiesGame.dll
